@@ -1,0 +1,15 @@
+{
+  "name": "MEANstackAsssignment3",
+  "version": "0.0.0",
+  "description": "MEANstackAsssignment3",
+  "main": "app.js",
+  "author": {
+    "name": "Owner",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
